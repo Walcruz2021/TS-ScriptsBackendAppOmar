@@ -1,0 +1,5 @@
+import CollectionVersion from 'App/Core/CollectionVersion/Infrastructure/Mongoose/Models/CollectionVersion'
+import CollectionVersionRepo from 'App/Core/CollectionVersion/Infrastructure/Mongoose/Repositories/CollectionVersionRepository'
+
+const CollectionVersionRepository = new CollectionVersionRepo(CollectionVersion)
+export default CollectionVersionRepository

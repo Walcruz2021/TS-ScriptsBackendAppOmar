@@ -1,0 +1,3 @@
+export enum UserContactEnum {
+  CONTACT_REPRESENTATIVE = 'CONTACT_REPRESENTATIVE'
+}

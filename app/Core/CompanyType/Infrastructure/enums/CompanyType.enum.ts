@@ -1,0 +1,7 @@
+export enum CompanyTypeEnum {
+  VERIFIERS = 'VERIFIERS',
+  TRADERS = 'TRADERS',
+  UCROPIT = 'UCROPIT',
+  PROVIDER = 'PROVIDER',
+  PRODUCER = 'PRODUCER'
+}

@@ -1,0 +1,97 @@
+﻿{
+  "licencias": [
+    {
+      "id_license": "11",
+      "title_clauses": "37;38;39;40;41",
+      "name": "Soja Sustentable ",
+      "type": "SUSTAINABILITY",
+      "previewDescription": "Trazabilidad y procesos de verificación para determinar origen y prácticas sustentables en la producción del cultivo de soja",
+      "taxId": "30716983702",
+      "cropType": "soy",
+      "image": "soja_sustentable.jpg",
+      "normative": "2BSvs",
+      "allowIntersection": "YES",
+      "termsAndConditions": "soja_sustentable_terms_conditionslicencia.txt",
+      "startDatePost": "01/01/2022",
+      "endDatePost": "30/04/2022",
+      "startDate": "01/07/2021",
+      "endDate": "25/08/2022",
+      "status": "ACTIVE",
+      "hectareLimit": "700000",
+      "timeLeftPost": "60",
+      "timeLeftNew": "60",
+      "countryId": "AR",
+      "verificationType": "soja_susten"
+    }
+  ],
+  "sub_licencias": [
+    {
+      "id_license": "11",
+      "id_sublicense": "1",
+      "taxId": "33502232229",
+      "image": "logo_viterra.png",
+      "companyUsers": "gustavo.matera@viterra.com;carla.campanella@viterra.com;luis.camps@viterra.com;francisco.garcia-mansilla@viterra.com       ",
+      "status": "ACTIVE",
+      "hectareLimit": "600000"
+    },
+    {
+      "id_license": "11",
+      "id_sublicense": "2",
+      "taxId": "30715118773",
+      "image": "logo_molinos.png",
+      "companyUsers": "francisco.garcia-mansilla@viterra.com;juan.carlos.cappello@molinosagro.com.ar;diego.lerini@molinosagro.com.ar;diego.garcia.bastons@molinosagro.com.ar;veronica.curci@molinosagro.com.ar;federico.ucke@molinosagro.com.ar",
+      "status": "ACTIVE",
+      "hectareLimit": "100000"
+    }
+  ],
+  "clauses": [
+    {
+      "id_clause": "37",
+      "title": "Premios",
+      "description": "Cumplir en tiempo y forma con todas las instancias sugeridas en la presente licencia para poder recibir un premio de hasta 0,56 u$s por hectárea",
+      "image": "premios_soja.jpg",
+      "nombre de licencia": "Soja Sustentable",
+      "concatenado": "Premios"
+    },
+    {
+      "id_clause": "38",
+      "title": "Datos de Siembra",
+      "description": "Informar variedad de semilla utilizada y densidad de siembra, insumos aplicados a la siembra y rinde estimado acompañando foto geolocalizada del cultivo emergido y/o imagen NDVI.",
+      "image": "datos_siembra_sem_soja.jpg",
+      "nombre de licencia": "Soja Sustentable",
+      "concatenado": "Premios; Datos de Siembra"
+    },
+    {
+      "id_clause": "39",
+      "title": "Aplicaciones y/o Pulverizaciones",
+      "description": "Informar todas las aplicaciones de fitosanitarios y fertilizaciones, indicando fecha, producto utilizado, dosis, método y forma utilizada  con su respaldo de Receta Agronómica, Orden de Trabajo o Descarga de documentación equivalente desde Software de Gestión/ERP.",
+      "image": "aplicaciones_soja.jpg",
+      "nombre de licencia": "Soja Sustentable",
+      "concatenado": "Premios; Datos de Siembra; Aplicaciones y/o Pulverizaciones"
+    },
+    {
+      "id_clause": "40",
+      "title": "Estimación de Rinde",
+      "description": "Informar estimación de rinde en estado reproductivo avanzado y acompañar imagen NDVI y/o foto geolocalizada en el lote con muestra de espigas/vainas o lo que corresponda según cultivo.",
+      "image": "estimacion_rinde_soja.jpg",
+      "nombre de licencia": "Soja Sustentable",
+      "concatenado": "Premios; Datos de Siembra; Aplicaciones y/o Pulverizaciones; Estimación de Rinde"
+    },
+    {
+      "id_clause": "41",
+      "title": "Datos de Cosecha ",
+      "description": "Informar Rinde Bruto Obtenido por ha por Variedad de Semilla utilizada y acompañar planilla o documentación de respaldo.",
+      "image": "datos_cosecha_sem_soja.jpg",
+      "nombre de licencia": "Soja Sustentable",
+      "concatenado": "Premios; Datos de Siembra; Aplicaciones y/o Pulverizaciones; Estimación de Rinde; Datos de Cosecha"
+    }
+  ],
+  "verifierCompanies": [
+    {
+      "id_license": "11",
+      "verifierCompany": "30608663815",
+      "verifierUsers": "cgattoni@controlunion.com;edelcorchio@controlunion.com;fgardelliano@controlunion.com;gviale@controlunion.com;gtaborda@controlunion.com;lmartineau@controlunion.com;mquaine@controlunion.com;mferrari@controlunion.com;vescalada@controlunion.com",
+      "verificationType": "soja_susten"
+    }
+  ]
+}

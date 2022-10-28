@@ -1,0 +1,239 @@
+Señores
+‘@razonSocialProductor’
+Presente 
+
+
+Ref.: Oferta N° ‘@nro_lic’
+
+De mi mayor consideración: 
+
+En mi carácter de Presidente de UCROPIT S.A., C.U.I.T. N° 30-71698370-2 (el "Licenciante"), con domicilio en Paraguay 1225, Piso 10 de la Ciudad Autónoma de Buenos Aires, República Argentina y con correo electrónico diego.hoter@ucrop.it, me dirijo a ‘@razonSocialProductor’, C.U.I.T. N°‘@cuitProductor’ (el "Licenciatario", y conjuntamente con el Licenciante, las "Partes"), a fin de someter a su consideración la presente oferta irrevocable de licencia de acceso y uso de la plataforma "ucrop.it" que, de ser aceptada por el Licenciatario, se regirá por los términos y condiciones detallados en el Anexo I adjunto a la presente (la “Oferta”).
+
+Los términos y condiciones detallados en el Anexo I comenzarán a regir la relación entre las Partes, si dentro de los diez (10) días contados desde el día de la fecha el Licenciatario acepta la Oferta de conformidad con lo estipulado en la Cláusula  7.9.
+
+Sin más, saludo a Uds. muy atentamente
+
+
+_______________________________
+Por: UCROPIT S.A.
+
+Aclaración: Diego Hoter
+
+Cargo: Presidente
+
+
+
+
+LA RECEPCIÓN DE LA PRESENTE NO IMPLICA CONFORMIDAD.
+
+
+
+ANEXO I
+
+TÉRMINOS Y CONDICIONES
+
+Cláusula Primera: Objeto. El Licenciante otorga al Licenciatario, y éste acepta de conformidad, una licencia personal, limitada al territorio del país de residencia del Licenciatario, no exclusiva, gratuita e intransferible de acceso a, y uso de, la aplicación tecnológica denominada "ucrop.it", desarrollada y de propiedad del, u otorgada en licencia al, Licenciante (la "Plataforma"), con el fin de que el Licenciatario: (i) pueda darse de alta como usuario de la Plataforma; (ii) cargue en la Plataforma, o proporcione para su carga en la Plataforma, información relativa a campos y/o lotes geo-referenciados con evidencia y/o respaldo que acredite la titularidad o derechos del Licenciatario sobre dichos campos y/o lotes (por ejemplo, a mero título ejemplificativo, arrendatario  de los mismos), mapas/polígonos digitales de los campos y lotes en cuestión, cultivos a desarrollar, cantidad de hectáreas de los campos y lotes, plan de siembra, registro de evidencia e información respecto a la sucesión de actividades realizadas a campo durante el ciclo de producción del cultivo; (iii) valide con los verificadores designados por el Licenciante la información cargada, o brindada para ser cargada, en la Plataforma, mediante los procesos de firma y acuerdos registrados en la blockchain; (iv) (a) otorgue al Licenciante -y a los accionistas, directores, gerentes, empleados y colaboradores de éste- durante todo el tiempo durante el cual el Licenciatario sea titular de una cuenta de usuario de la Plataforma (y hasta que se cumplan sesenta (60) días contados desde la fecha en la que dicha cuenta sea dada de baja por cualquiera de las Partes en virtud de cualquier causa prevista en al presente Oferta), visibilidad de, acceso a y posibilidad de reproducción, descarga y generación de copias, de toda la información cargada en la Plataforma y brindada para que sea cargada en la Plataforma incluyendo, pero no limitándose a, la evolución del ciclo del/los cultivo/s, mediante la información digital resultante, a través de tableros de control y/o reportes de avance de cultivo y/o la evidencia de registro, entre otros datos cargados en la Plataforma, o brindados para que sean cargados en la Plataforma, por el Licenciatario y sus colaboradores y empleados en relación con lo anterior, y (b) otorgue a Control Union Argentina S.A., C.U.I.T. N° 30-60866381-5 (el "Ente Verificador") y a las empresas detalladas en el Anexo A de la presente Oferta y/o las que se incorporen por mutuo acuerdo en un futuro, ya sea a través de la Plataforma o mediante un correo electrónico (según lo disponga el Licenciante), y a los accionistas/cuota-partistas, directores/gerentes, empleados y colaboradores de éstas- (los "Exportadores"),durante el plazo de vigencia de la presente o sus sucesivas prórrogas, si las hubiera, conforme lo previsto en la Cláusula Tercera, visibilidad de, acceso a y posibilidad de reproducción, descarga y generación de copias, las que podrán ser utilizadas por el Ente Verificador y los Exportadores incluso una vez cumplido el referido plazo o las prórrogas antedichas, de la información cargada en la Plataforma y brindada para que sea cargada en ésta, relativa a los datos de los cultivos, exclusivamente respecto de aquellos relacionados con los campos y/o lotes seleccionados por el Licenciatario conforme lo enunciado en la Cláusula 5.2.d.1), permitiendo a su vez el Licenciatario ser contactado por el Licenciante, el Ente Verificador y los Exportadores, conjunta o indistintamente; y (v) acceda a ciertos beneficios comerciales propuestos por el Licenciante, en tanto y en cuanto el Licenciatario cumpla con todos los pasos de registro y firma de la información solicitada en cada etapa del ciclo del cultivo de soja que se especifican en la Cláusula 5.2.
+
+Cláusula Segunda: Obligaciones del Licenciatario.
+
+2.1	El Licenciatario acepta producir su/s cultivo/s de soja (el/los “Cultivo/s”) según los derechos conferidos en la Cláusula Primera, comprometiéndose a respetar y cumplir con las declaraciones y obligaciones en los términos que en esta Oferta se especifican, para la prueba y validez de los mismos, sirviendo al presente de suficiente declaración jurada por parte del Licenciatario.
+
+2.2	Criterios Esenciales - Sustentabilidad. El Licenciatario sirviendo la presente como suficiente declaración jurada, acepta producir su Cultivo según los criterios esenciales de sustentabilidad a continuación descritos:
+
+
+
+
+Criterios esenciales
+Descripción
+
+
+Respeto por las leyes aplicables y derecho de los trabajadores
+Demostrar conciencia sobre las responsabilidades de acuerdo a las leyes aplicables. Las Leyes aplicables están siendo cumplidas. No se utiliza el trabajo forzoso, obligatorio, condiciones de servidumbre o trata o cualquier otro tipo de trabajo involuntario en ninguna etapa de producción. Los niños menores de 15 años (o mayores según lo establecido en la legislación nacional) no llevan a cabo trabajo productivo. Los trabajadores jóvenes (15-18 años) no deben realizar trabajos peligrosos que pongan en peligro su salud y bienestar. No se soporta o tolera ninguna forma de discriminación. Los trabajadores no están sujetos a castigos corporales, opresión mental o física, coacción, abuso verbal o físico, acoso sexual o cualquier tipo de intimidación. No se le requiere a ninguno de los trabajadores de cualquier tipo la entrega de sus documentos de identidad a nadie, a menos que esto sea requerido por la ley. La semana laboral se fijará de acuerdo con las leyes locales y nacionales, deberán ser compatibles con los estándares de la industria local, y será, como máximo, de 48 horas por semana (no incluidas las horas extraordinarias).La semana laboral se fijará de acuerdo con las leyes locales y nacionales, deberán ser compatibles con los estándares de la industria local, y será, como máximo, de 48 horas por semana (no incluidas las horas extraordinarias). Las horas extraordinarias son siempre voluntarias y deben ser pagadas de acuerdo a las leyes locales y nacionales o acuerdos sectoriales.
+
+
+Lugar de trabajo seguro y saludable
+Se proporciona un lugar de trabajo seguro y saludable para todos los trabajadores, que incluye, al menos, el acceso al agua potable, instalaciones sanitarias básicas y equipo de protección. Las tareas potencialmente peligrosas son llevadas a cabo solamente por personas capacitadas y competentes, que han recibido formación sobre cómo realizar esas tareas de forma segura. Se proporcionan equipos y ropa de protección adecuada y apropiada y se utilizan en todas las operaciones potencialmente peligrosas.
+
+
+Atención médica y derecho sindical
+Se dará sin demora tratamiento médico / de primeros auxilios y en todos los sitios permanentes y en las proximidades del trabajo de campo están presentes kits de primeros auxilios. Todos los trabajadores tienen derecho a llevar a cabo una negociación colectiva. Es derecho de todos los trabajadores el establecer y / o unirse a una organización de su elección. El funcionamiento de estas organizaciones no se vea obstaculizado. Los representantes no son objeto de discriminación y sus miembros tienen acceso a al lugar de trabajo por encargo. Los salarios brutos cumplen con los acuerdos de la legislación nacional y del sector.
+
+
+Derecho de uso de tierra y tenencia legal
+Existe evidencia documentada de derechos de uso de la tierra (por ejemplo, documento de propiedad, contrato de alquiler, una orden judicial, etc.). Cuando los usuarios tradicionales de la tierra han renunciado a su derecho de uso existen pruebas documentales de que las comunidades afectadas sean compensadas bajo su consentimiento previo, libre, informado y documentado. No hay conversión de tierra donde hay un reclamo no resuelto por el uso del suelo por parte de los usuarios tradicionales de la tierra en litigio sin el acuerdo de ambas partes. Las áreas que están asignadas como reserva legal, áreas de conservación o de otro modo garantizadas por ley tienen que ser protegidas. Si ha tenido lugar alguna alteración, estas áreas deben ser restauradas a su estado anterior, o se deben tomar acciones de compensación legalmente autorizadas. 
+
+
+Almacenamiento seguro
+Hay un almacenamiento y eliminación adecuados del combustible, baterías, neumáticos, lubricantes, aguas residuales y otros residuos de conformidad con la legislación nacional.
+
+
+Prohibición de quema
+La quema en cualquier parte de la propiedad de los residuos agrícolas, residuos, o como parte del desmonte de la vegetación no está permitido, a menos que sea necesario para los cultivos en proceso de secado u obligado por la legislación nacional como una medida sanitaria.
+
+
+Siembra directa y buenas prácticas en preservación de suelos y fuentes de agua
+El agricultor tiene conocimiento de las técnicas para mantener y controlar la calidad del suelo (física, química y biológica) y las técnicas pertinentes se implementan. Por ejemplo: la agricultura de precisión, gestión de residuos, la rotación de cultivos, la siembra directa, la labranza de contorno, pasturas, cursos de agua, terrazas, plantas fijadoras de nitrógeno, abonos verdes y técnicas agroforestales. Se implementan buenas prácticas agrícolas para minimizar los impactos difusos y localizados en la calidad del agua superficial y subterránea por parte de residuos químicos, fertilizantes y erosión u otras fuentes. Por ejemplo, manteniendo un área de amortiguamiento alrededor de los cuerpos de agua, tratamiento de aguas residuales, agricultura de precisión, etc.
+
+
+Uso responsable de agroquímicos
+El uso de productos fitosanitarios sigue los requisitos legales (o recomendaciones profesionales) en el país de origen y deberían ser tomadas medidas para prevenir la resistencia. El agricultor tiene conocimiento de las técnicas para mantener y controlar la calidad del suelo (física, química y biológica) y las técnicas pertinentes se implementan. Por ejemplo: la agricultura de precisión, gestión de residuos, la rotación de cultivos, la siembra directa, la labranza de contorno, pasturas, cursos de agua, terrazas, plantas fijadoras de nitrógeno, abonos verdes y técnicas agroforestales. El agricultor tiene conocimiento de las técnicas para evitar la erosión del suelo y se implementan las técnicas pertinentes. Por ejemplo: siguiendo los contornos con operaciones para la preparación del suelo, utilizando terrazas, utilizando cultivos de cobertura, reduciendo al mínimo la labranza y la colocación de barreras contra el viento. No se utilizan agroquímicos que figuran en los Convenios de Estocolmo y Rotterdam. La aplicación de agroquímicos (fitosanitarios y fertilizantes) se documenta. Se supervisa toda la manipulación, almacenamiento, recolección y eliminación de residuos de agroquímicos y envases vacíos de productos agroquímicos. La utilización y el almacenamiento de agroquímicos y la eliminación de residuos de agroquímicos está en línea con las recomendaciones profesionales y la legislación aplicable. No hay una aplicación de pesticidas dentro de los 30 metros (o más cuando esté prescrito en la legislación nacional) de cualquier área poblada o cuerpo de agua y se toman todas las precauciones necesarias para evitar que entren personas en zonas recién pulverizadas. Los Productos agroquímicos deberán aplicarse utilizando métodos que minimicen el daño a la salud humana, la fauna, la biodiversidad vegetal, el agua y la calidad del aire. 
+
+
+ Plataforma aérea de herbicidas segura
+La aplicación aérea de plaguicidas se lleva a cabo de tal manera que no tiene un impacto en las zonas pobladas y cuerpos de agua. Toda la aplicación aérea es precedida por una notificación previa a los residentes a menos de 500 m de la aplicación prevista (o más cuando esté prescrito en la legislación nacional). No hay una aplicación aérea de plaguicidas de las clases Ia, Ib y II establecidas por la OMS (Organización Mundial de la Salud), dentro de los 500 m de las áreas pobladas o cuerpos de agua (o más cuando esté prescrito en la legislación nacional). 
+
+
+Protección de las relaciones con la comunidad
+En caso que una autoridad competente requiera al agricultor que reaccione ante una queja o reclamo de una determinada manera, el agricultor lo hará en un tiempo oportuno. Las quejas se tratan de una manera apropiada. Se mantiene la evidencia documentada de las reclamaciones y quejas recibidas.
+
+
+
+Cláusula Tercera: Plazo. 
+
+3.1	El plazo de vigencia de la relación derivada de la aceptación de la presente Oferta (el “Plazo”) será hasta el 31 de Marzo de 2023 y comenzará cuando el Licenciatario acepte la presente Oferta de conformidad con lo estipulado en la Cláusula 7.9 de la presente, venciendo automáticamente, y por el mero transcurso del tiempo, sin necesidad de notificación judicial o extrajudicial alguna, todo ello sin perjuicio de lo previsto en los ítems (iv) (a) y (b) de la Cláusula Primera.
+
+3.2	El Plazo podrá ser prorrogado por las Partes en las condiciones que oportunamente acuerden. 
+
+Cláusula Cuarta: Beneficios Comerciales. 
+
+4.1	El Licenciatario declara que es de su interés acceder en el presente y/o en el futuro a potenciales beneficios comerciales que a sola discreción y decisión del Licenciante podrían estar disponibles para el Licenciatario por ser usuario de la Plataforma y realizar las actividades detalladas en la Cláusula Primera, a saber y sin limitarse a:
+
+Acceso a información transparente, oportuna, de condiciones comerciales preferentes para la comercialización del fruto del/los Cultivo/s detallados en la presente.
+
+Beneficios comerciales e incentivos monetarios y/o en especie para recompensar el registro y carga de evidencia de las actividades enumeradas en la Cláusula Quinta. 
+
+Trazabilidad como resultado del registro de la información referente al ciclo del/los Cultivo/s detallados en la presente.
+
+Cláusula Quinta: Capacitaciones. Uso de la Plataforma.
+
+5.1	Oportunamente, el Licenciante podrá ofrecer capacitaciones relativas al acceso y uso de la Plataforma, y el Licenciatario hará sus mejores esfuerzos para participar de tales capacitaciones por sí o por terceros que designe a tal efecto. 
+
+5.2	Durante la vigencia del Plazo, el Licenciatario, deberá, como condición excluyente para acceder a los beneficios indicados en las Cláusulas Cuarta y Quinta, realizar las siguientes tareas relativas a la carga de información y el registro de datos: 
+
+En caso de no contar ya con un usuario activo en la Plataforma, realizar el alta de registro ingresando en www.ucrop.it y completando el formulario “Se parte del cambio” con los datos requeridos y luego pulsar el botón “Regístrate ahora'' para finalizar el registro. Luego, el Licenciatario será contactado por el Licenciante para finalizar el proceso de alta, acceder a un usuario, contraseña y perfil de productor y Cultivo en la Plataforma.
+
+Provisión y/o carga de los polígonos georreferenciados del/los campo/s y del/los lote/s de producción (en formatos como KMZ/KML/SHP o equivalentes) y de su/s Cultivo/s detallado/s en la presente.
+
+Provisión y/o carga del título de propiedad del/los campo/s y/o de los lotes del contrato de arrendamiento y/o del contrato de aparcería y/o del poder/usufructo y/o de todo otro documento que evidencie la ocupación y uso legal y la tenencia de los campos y/o lotes para su explotación agrícola y comercial a campo, siendo válidas las constancias de alta en el registro correspondiente emitidas por la A.F.I.P. (Administración Federal de ingresos Públicos) y obtenidas del servicio SISA (Sistema de Información Simplificado Agrícola) donde constan la C.U.I.T. u otras constancias equivalentes disponibles en el país en el que reside el Licenciatario, y denominación del titular, arrendador y/o usufructuario, siendo esta enumeración meramente ejemplificativa, así como la partida y superficie del/de los campo/s.
+
+Provisión y/o carga de información, evidencia y firma de aceptación solicitada por el Licenciante durante el plazo de la presente y sus sucesivas prórrogas, si las hubiere, a saber:
+
+d.1)	Aceptación electrónica de la presente a través de la Plataforma y selección de el/los campo/s y/o lote/s donde el Licenciatario planee sembrar o hubiera sembrado su Cultivo y que formarán parte de la presente. Respecto al Ente Verificador y los Exportadores con los que acceda a compartir su información y con los que luego quedaría en contacto pudiendo entonces obtener los potenciales beneficios aludidos en la Cláusula Primera y en la Cláusula Cuarta: aceptará compartir la información con el Ente Verificador y los Exportadores, según se vayan incorporando durante el avance de la campaña agrícola 2122 en los términos del ítem (iv)(b) de la Cláusula Primera, y que se dediquen a la comercialización de Soja Sustentable y/o Soja 2BSvs y/o Soja EPA.
+
+d.2)	Provisión y/o carga de los polígonos georreferenciados (en formatos como KMZ/KML/SHP o equivalentes) del/los campo/s y del/los lote/s de producción de lo/s cultivo/s, sobre los cuales aplicará el análisis digital de paisaje sustentable para el logro del alcance del estándar 2BSvs en referencia al cumplimiento legal a nivel nacional respecto a forestación y protección de ecosistemas.     
+
+d.3)	En registro de siembra, se debe informar la variedad de la semilla utilizada, densidad de la siembra, insumos aplicados con la semilla a la siembra y rinde estimado a obtener; y adjuntar o tomar una fotografía geo-localizada del Cultivo sembrado/emergido y/o imagen NDVI (Índice de Vegetación de Diferencia Normalizada) del Cultivo establecido.
+
+d.4)	Firma electrónica de lo indicado en d.3).
+
+d.5)	Aplicaciones y/o Pulverizaciones de Fertilizantes y/o Fitosanitarios: provisión y/o carga de (i) información de fecha de aplicación, productos, dosis y método de aplicación por cada y para toda aplicación realizada sobre el cultivo en cuestión; y (ii) receta agronómica y/o orden de trabajo y/o documentación descargada desde el ERP (Enterprise Resource Planning) o software de gestión que utilice a los fines de respaldar y evidenciar la información suministrada respecto a los productos y dosis utilizados por aplicación.
+
+d.6)	Firma electrónica de lo indicado en d.5).
+
+d.7)	En registro de monitoreo, se debe informar la estimación de rindes a cosecha entrado en período reproductivo avanzado, adjuntando o tomando una fotografía geo-localizada de vainas en lote y/o imagen NDVI del lote en dicho estadio.
+
+d.8)	Firma electrónica de lo indicado en d.7).
+
+d.9)	En registro de cosecha, se debe informar el rinde obtenido y adjuntar la planilla de cosecha y/o documentación de respaldo de las toneladas cosechadas.
+
+d.10)	Firma electrónica de lo indicado en d.9).
+
+5.3	El Licenciatario acepta que el Licenciante podrá liquidar beneficios comerciales monetarios al Licenciatario contra registros válidos, completos y veraces con firmas de aceptación electrónicas por parte del Licenciatario, de conformidad con los puntos incluidos en la Cláusulas 5.2, particularmente en la Cláusula 5.2 d) y subsiguientes, en tiempo y forma, y coincidentes con los momentos y lugares de las  actividades declaradas para la correcta trazabilidad del Cultivo de soja con ELEMENTOS DE SUSTENTABILIDAD. Las instancias a considerar serán aquellas donde los siguientes registros se encuentren completos y finalizados y sean verificadas las firmas electrónicas de aceptación por parte del Licenciatario:
+
+Instancia 1: 5.2 c), d.1) y d.2)
+
+Instancia 2: 5.2. d.3) y d.4) .
+
+Instancia 3: 5.2. d.5) y d.6).
+
+Instancia 4: 5.2. d.7) y d.8). 
+
+Instancia 5: 5.2. d.9) y d.10). 
+
+5.4	Será condición excluyente para el acceso y la percepción de los beneficios comerciales monetarios que el Licenciatario complete en tiempo y forma la Instancia 1 y que las hectáreas resulten aptas para el estándar de Soja 2BSvs en base a la verificación digital por parte del Ente Verificador, a través de la Plataforma, del paisaje sustentable, uso y explotación legal de la tierra según Cláusula 5.2 c), para así poder percibir a razón de un valor total equivalente a US$ 0,14 (Catorce Centavos de Dólar Estadounidense), impuestos incluidos, por hectárea apta para el estándar 2BSvs por instancia de las siguientes instancias: Instancia 2, Instancia 3, Instancia 4 e Instancia 5. La procedencia del otorgamiento de los referidos beneficios comerciales monetarios será determinada por el Licenciante y, de ser otorgados, liquidados cuando el Licenciante lo determine, pero siempre dentro del Plazo de la presente, y pagados en la moneda del país en la que reside el Licenciatario, aplicándose a los efectos de la conversión el tipo de cambio del dólar divisa comprador publicado por el Banco de la Nación Argentina el día hábil inmediatamente posterior a la fecha de cumplimiento de registros válidos, completos y veraces para cada una de las instancias antes mencionadas. Conforme las instancias y sus registros estén debidamente completos en los términos de la presente, el Licenciante notificará por correo electrónico al Licenciatario y/o al asesor promotor de éste, según resultare aplicable y en relación con lo manifestado en la Cláusula 5.5, la liquidación de beneficios comerciales y la/s fecha/s a efectuar la/s misma/s, para lo cual el Licenciatario deberá emitir una factura y/o recibo de pago, según lo acuerden las Partes oportunamente. Queda expresamente aclarado y entendido que el otorgamiento y la liquidación y pago de los beneficios comerciales antedichos por parte del Licenciante se encuentra sujeto al cumplimiento por parte de los Exportadores de las obligaciones asumidas por ésta bajo ciertos acuerdos celebrados entre los Exportadores y el Licenciante. Consecuentemente, el Licenciatario renuncia expresa a irrevocablemente a interponer reclamos contra el Licenciante y los accionistas, directores/gerentes, empleados y colaboradores de éste, si los referidos beneficios comerciales no fuesen otorgados y liquidados, o si fuesen otorgados y liquidados de una forma distinta a la aquí prevista, como consecuencia directa o indirecta de incumplimientos por parte de los Exportadores a las obligaciones asumidas por ésta ante el Licenciante en virtud de los acuerdos antes mencionados. 
+
+5.5	El Licenciatario realizará la/s gestión/es necesaria/s por medio de su usuario en la Plataforma para vincular su/s Cultivo/s a terceros colaboradores y así delegar las funciones y actividades previstas en la presente, dispuestas en las Cláusulas 5.2 y 5.3, como así también para la categoría de “asesores” y el cobro de beneficios comerciales e incentivos dispuestos en la Cláusula 4.1 b) para la categoría de “asesores promotores”, sobre el total o parcial de los campos/lotes mencionados en la Cláusula 5.2 b) y/o seleccionados según lo dispuesto en la Cláusula 5.2 d.1), asumiendo el Licenciatario plena responsabilidad por todo lo cargado y realizado en la Plataforma a través de cualquiera de los usuarios creados por dichos colaboradores del Licenciatario.
+
+5.6	A requerimiento del Licenciante, el Licenciatario podrá dar soporte al Licenciante en actividades promocionales en las que se le solicite comentar su experiencia a través de distintos sistemas y medios de comunicación, como por ejemplo, y sin que implique limitación, medios radiales, gráficos, multimediales, redes sociales, actividades de prensa, lanzamientos, presentaciones y reuniones.
+
+5.7	En atención a la importancia que reviste el cumplimiento de las obligaciones previstas en la Cláusula Quinta, y para preservar la integridad del Licenciante, el Licenciatario acepta, mediante previo aviso, la visita por parte de personal y/o terceros contratados por el Licenciante, al/los campo/s y/o establecimiento/s del Licenciatario, o sobre los cuales éste ostente derechos, para verificar el cumplimiento de la presente y de los demás acuerdos celebrados entre las Partes, si los hubiera.  
+
+5.8	La presente Oferta se regirá e interpretará bajo las leyes de la República Argentina. Para cualquier controversia o divergencia relacionada con la existencia, interpretación, validez, celebración, cumplimiento o terminación de esta Oferta, siendo esta enumeración meramente ejemplificativa pero no limitativa, las Partes se someten a la jurisdicción exclusiva de los Juzgados Nacionales Ordinarios con asiento en la Ciudad Autónoma de Buenos Aires, renunciando expresamente a cualquier otra jurisdicción que pudiere corresponderles.
+
+Cláusula Sexta: Resolución. 
+
+6.1	Cualquiera de las Partes podrá rescindir la relación derivada de la aceptación de la presente Oferta en cualquier momento, sin expresión de causa y sin obligación de indemnización alguna a favor de la otra parte, debiendo para ello notificar fehacientemente su decisión en tal sentido con una anticipación mínima de treinta (30) días a la fecha en que desee que opere la rescisión. En este sentido, el Licenciatario acepta que, de rescindirse a la presente sin causa, el Ente Verificador y los Exportadores tendrán derecho a utilizar la información cargada en la Plataforma en los términos previstos en la presente, hasta que se cumpla el plazo de esta Oferta o de sus sucesivas prórrogas, si las hubiere. 
+
+6.2	La falta de cumplimiento de cualquiera de las obligaciones establecidas en esta Oferta otorga a la parte cumplidora el derecho a resolver la presente Oferta, previa intimación fehaciente a la parte incumplidora para que, en el término de quince (15) días contados a partir de la recepción de dicha intimación, subsane el incumplimiento de que se trate. En caso de que la parte incumplidora no subsane el respectivo incumplimiento dentro del plazo antes referido, se producirá la resolución de la presente sin necesidad de notificación judicial o extrajudicial alguna, pudiendo la parte cumplidora reclamar a la parte incumplidora una indemnización por los daños y perjuicios ocasionados. En este sentido, el Licenciatario acepta que, de resolverse la presente con causa, el Ente Verificador y los Exportadores tendrán derecho a utilizar la información cargada en la Plataforma en los términos previstos en el presente, hasta que se cumpla el Plazo de esta Oferta o de sus sucesivas prórrogas, si las hubiere. 
+
+6.3	La terminación de la presente Oferta, con o sin causa, no libera a las Partes de las obligaciones pendientes a la fecha de terminación.
+
+6.4	El Licenciatario declara y garantiza al Licenciante que cuenta con las autorizaciones, permisos y registros nacionales, provinciales y municipales que son requeridos para realizar las actividades del Licenciatario, en caso de resultar aplicables. La Plataforma y los Servicios se ponen a disposición del Licenciatario "TAL CUAL SE ENCUENTRA" y sin garantía de ningún tipo. El Licenciatario utilizará esa Plataforma por su cuenta y riesgo.
+
+6.5	Las Partes declaran que son personas absolutamente independientes una de la otra y que cuentan con organización y personal propio, y asumen sus propios riesgos. Ninguna de las Partes podrá, bajo ningún concepto, considerarse socia, asociada, empleada, mandataria o representante de la otra Parte y, por lo tanto, ninguna de las Partes podrá representar a la otra parte frente a terceros.
+
+Cláusula Séptima: Varios.
+ 
+7.1.	El Licenciatario declara comprender y aceptar que el Licenciante ha celebrado o podría celebrar contratos con terceros (incluyendo, pero no limitándose al Ente Verificador y/o los Exportadores) y asumido compromiso bajo los mismos, cuyo cumplimiento está o podría estar a su vez sujeto al cumplimiento por parte del Licenciatario de las obligaciones asumidas bajo la presente o bajo otros acuerdos celebrados entre las Partes. En consecuencia, el Licenciatario es responsable por los daños y perjuicios que se generen como consecuencia del incumplimiento de las obligaciones que asume por la presente. En este sentido, el Licenciatario se compromete a mantener indemne e indemnizar al Licenciante, sus accionistas, autoridades, empleados, colaboradores y representantes de cualquier demanda o reclamo judicial o extrajudicial de cualquier naturaleza que pudieren presentar los referidos terceros (incluyendo, pero no limitándose al Ente Verificador y/o los Exportadores), en la medida en que los incumplimientos ante éstos por parte del Licenciante sean consecuencia directa o indirecta de incumplimientos por parte del Licenciatario bajo la presente o bajo otros acuerdos que ha celebrado o podría celebrar con el Licenciante. 
+
+7.2.	El Licenciatario no podrá ceder ni transferir los derechos y obligaciones previstos en la presente, sin el previo consentimiento escrito del Licenciante. 
+
+7.3.	El Licenciante designa javier.foster@ucrop.it (con copia a hello@ucrop.it) como su casilla de correo de contacto para cualquier comunicación o notificación que deseare realizar el Licenciatario y el Licenciatario utilizará la casilla de correo informada al momento del alta del usuario en la plataforma u otra que hubiera informado. Las comunicaciones que las Partes deban cursarse en el curso diario y ordinario de ejecución de esta Oferta serán dirigidas a las casillas antes mencionadas. Las Partes podrán reemplazar dichas casillas de correo o designar otras complementarias, debiendo comunicarlo por escrito, en los términos de la Cláusula 6.9, con al menos 5 (cinco) días de anticipación a la fecha en que el reemplazo o la designación de casillas complementarias se tornen efectivas. Las Partes no deberán confiar (pero podrán hacerlo a su exclusivo riesgo) en correos electrónicos que no sean enviados a través de las referidas casillas de correo. 
+
+7.4.	Las Partes constituyen domicilios especiales en los indicados al momento del alta de la empresa y usuarios en la Plataforma, donde se considerarán válidas todas las notificaciones judiciales o extrajudiciales que en los mismos se practiquen. Toda comunicación que exceda el curso diario y ordinario de ejecución de este Contrato incluyendo, pero no limitándose a, comunicaciones relativas a reclamos y rescisiones, será realizada por medio fehaciente.  
+
+7.5.	Cualquiera de las Partes podrá modificar su domicilio, en cuyo caso deberá comunicarlo en forma fehaciente a la otra parte con una anticipación mínima de cinco (5) días corridos a la fecha en que tal cambio de domicilio sea efectivo.
+
+7.6.	Si bien la presente Oferta y los derechos y obligaciones emergentes de la presente no se encuentran alcanzados por el impuesto de sellos, se deja constancia que en caso que alguna Dirección de Rentas pretenda exigir el pago de dicho impuesto, éste quedará a cargo del Licenciante y Licenciatario por partes iguales.
+
+7.7.	En caso de existir contradicciones, conflictos o inconsistencias entre lo previsto en la presente y en los Términos y Condiciones de Uso de la Plataforma, sólo respecto de dichas contradicciones, conflictos o inconsistencias prevalecerá lo previsto en la presente.
+
+7.8. Esta Oferta y el acuerdo resultante de la aceptación a la misma se rige por las leyes de la República Argentina. 
+
+7.9. La presente Oferta es irrevocable y será válida durante el plazo de treinta (30) días desde la fecha de su recepción por parte del Licenciatario. La presente Oferta se interpretará como aceptada tácitamente por el Licenciatario si, dentro del plazo mencionado precedentemente, el Licenciatario realiza la aceptación electrónica con la identidad digital de la CUIT del Licenciatario provista mediante el proceso de onboarding de usuario efectuado en www.ucrop.it y/o aceptado por el Licenciatario a través de un correo electrónico en los términos previstos en el presente. Dicho acto será interpretado como aceptación irrevocable de la totalidad de esta Oferta, sin que sea necesaria otra manifestación de voluntad, expresa o tácita, por parte del Licenciatario. En tal caso, la fecha en que se produzca la aceptación de la Oferta coincidirá con la fecha de entrada en vigencia de la relación comercial emergente en virtud de la aceptación de la presente Oferta. 
+
+Sin más, saludo a Uds. muy atentamente
+
+
+_______________________________
+Por: UCROPIT S.A.
+
+Aclaración: Diego Hoter
+
+Cargo: Presidente
+
+
+
+LA RECEPCIÓN DE LA PRESENTE NO IMPLICA CONFORMIDAD.
+
+Anexo A 
+
+Listado de Exportadores según lo estipulado en el ítem (iv)(b) de la Cláusula Primera
+
+RAZÓN SOCIAL
+C.U.I.T.
+MOLINOS AGRO S.A.
+30-71511877-3
+VITERRA ARGENTINA S.A.
+33-50223222-9
+CARGILL SOCIEDAD ANONIMA COMERCIAL E INDUSTRIAL
+30-50679216-5
+
+ 
+En los términos previstos en el ítem (iv)(b) de la Cláusula Primera, este Anexo A podrá ser modificado por las Partes de mutuo acuerdo, a través de la Plataforma o mediante un correo electrónico (según lo disponga el Licenciante), a fin de incorporar otros Exportadores, los que se considerarán automáticamente incorporados a este Anexo A en caso de acordarlo las Partes del modo antedicho.
+
+
+
+
+
+_______________________________
+Por: UCROPIT S.A.
+
+Aclaración: Diego Hoter
+
+Cargo: Presidente
+
+
+
+LA RECEPCIÓN DE LA PRESENTE NO IMPLICA CONFORMIDAD.
+

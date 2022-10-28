@@ -1,0 +1,2 @@
+import EventsAuditEntitiesRepositoryContract from './EventsAuditEntitiesRepositoryContract'
+export { EventsAuditEntitiesRepositoryContract }

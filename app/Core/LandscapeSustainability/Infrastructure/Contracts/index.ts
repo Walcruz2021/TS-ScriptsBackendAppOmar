@@ -1,0 +1,2 @@
+import LandscapeSustainabilityRepositoryContract from './LandscapeSustainabilityRepositoryContract'
+export { LandscapeSustainabilityRepositoryContract }

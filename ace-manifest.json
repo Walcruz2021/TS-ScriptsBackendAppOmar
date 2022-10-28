@@ -1,0 +1,2674 @@
+{
+  "commands": {
+    "achievement:signer:update": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Achievements/AchievementSignerUpdate",
+      "commandName": "achievement:signer:update",
+      "description": "Use this command to update data within the signer array",
+      "args": [
+        {
+          "type": "string",
+          "propertyName": "attribute",
+          "name": "attribute",
+          "required": true,
+          "description": "Attribute Signer will be updated"
+        },
+        {
+          "type": "string",
+          "propertyName": "search",
+          "name": "search",
+          "required": true,
+          "description": "Attribute Signer search update"
+        },
+        {
+          "type": "string",
+          "propertyName": "value",
+          "name": "value",
+          "required": true,
+          "description": "New value"
+        }
+      ],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "achievement:supplies:update:id": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Achievements/AchievementSupplyUpdate",
+      "commandName": "achievement:supplies:update:id",
+      "description": "This command allows updating data of the list of supplies within the realizations",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "add:achievement:activity:signers:kam": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Achievements/AddAchievementActivitySignersKam",
+      "commandName": "add:achievement:activity:signers:kam",
+      "description": "This command add signers in achievement and activity",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "create:pending:task:achievement:signer": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Achievements/AddPendingTaskSigners",
+      "commandName": "create:pending:task:achievement:signer",
+      "description": "This command create pending task by user not sign achievement",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "delete:signer:achievement": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Achievements/DeleteSignerAchievement",
+      "commandName": "delete:signer:achievement",
+      "description": "This command delete signer achievement",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "replace:achievement:signer": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Achievements/ReplaceAchievementSigner",
+      "commandName": "replace:achievement:signer",
+      "description": "This command replace achievement signer",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "replace:achievement:supply:unit:type:supply": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Achievements/ReplaceAchievementSupplyUnitTypeSupply",
+      "commandName": "replace:achievement:supply:unit:type:supply",
+      "description": "This command replace achievement supply unit type supply",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "update:achievement:supplies": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Achievements/UpdateAchievementSupplies",
+      "commandName": "update:achievement:supplies",
+      "description": "This command update achievement supplies",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "update:achievement:unitTypeSupply": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Achievements/UpdateAchievementUnitTypeSupply",
+      "commandName": "update:achievement:unitTypeSupply",
+      "description": "This command update achievement unit type supply",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "update:achievement:unitTypeSupply:by:supplyId": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Achievements/UpdateAchievementUnitTypeSupplyBySupplyId",
+      "commandName": "update:achievement:unitTypeSupply:by:supplyId",
+      "description": "This command update achievement unit type supply by supply id",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "update:signers:achievements:by:crop": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Achievements/UpdateSignersAchievementsByCrop",
+      "commandName": "update:signers:achievements:by:crop",
+      "description": "This command update signer achievements",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "update:unit:achievement:supplies": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Achievements/UpdateUnitAchievementSupplies",
+      "commandName": "update:unit:achievement:supplies",
+      "description": "This command update unit in achievement supplies",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "add:activeIngredient": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/ActiveIngredients/AddActiveIngredient",
+      "commandName": "add:activeIngredient",
+      "description": "This command add active ingredient",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "add:pt:active:ingredients": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/ActiveIngredients/AddPtActiveIngredients",
+      "commandName": "add:pt:active:ingredients",
+      "description": "This command add pt in active ingredient",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "sync:activeIngredient:usa": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/ActiveIngredients/SyncActiveIngredientUsa",
+      "commandName": "sync:activeIngredient:usa",
+      "description": "This command sync active ingredient USA",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "update:eiq:activeIngredient": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/ActiveIngredients/UpdateEiqActiveIngredient",
+      "commandName": "update:eiq:activeIngredient",
+      "description": "This command update eiq in active ingredient",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "activities:verification:fix:company": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Activities/ActivitiesVerificationFixCompnay",
+      "commandName": "activities:verification:fix:company",
+      "description": "This command corrects the company of the verifier activities",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "activity:add:company:crop": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Activities/ActivityAddCompanyCrop",
+      "commandName": "activity:add:company:crop",
+      "description": "This command is used for update farms legacies on all cases",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "activity:signer:update": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Activities/ActivitySignerUpdate",
+      "commandName": "activity:signer:update",
+      "description": "Use this command to update data within the signer array",
+      "args": [
+        {
+          "type": "string",
+          "propertyName": "attribute",
+          "name": "attribute",
+          "required": true,
+          "description": "Attribute Signer will be updated"
+        },
+        {
+          "type": "string",
+          "propertyName": "search",
+          "name": "search",
+          "required": true,
+          "description": "Attribute Signer search update"
+        },
+        {
+          "type": "string",
+          "propertyName": "value",
+          "name": "value",
+          "required": true,
+          "description": "New value"
+        }
+      ],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "activity:supply:update:id": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Activities/ActivitySupplyUpdate",
+      "commandName": "activity:supply:update:id",
+      "description": "This command allows updating data of the list of supplies within the activities",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "add:activities:achievements": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Activities/AddActivitiesAchievements",
+      "commandName": "add:activities:achievements",
+      "description": "This command add activities and achievements",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "add:activity:achievement:signer": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Activities/AddActivityAchievementSigner",
+      "commandName": "add:activity:achievement:signer",
+      "description": "This command replace activity signer",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "add:activity:supply": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Activities/AddActivitySupply",
+      "commandName": "add:activity:supply",
+      "description": "This command add supply in activities",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "add:signer:activity": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Activities/AddSignerActivity",
+      "commandName": "add:signer:activity",
+      "description": "This command add signer in activity",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "delete:activity:signer": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Activities/DeleteActivitySigner",
+      "commandName": "delete:activity:signer",
+      "description": "This command delete activity signer",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "replace:activity:signer": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Activities/ReplaceActivitySigner",
+      "commandName": "replace:activity:signer",
+      "description": "This command replace activity signer",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "update:activities:finished": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Activities/UpdateActivitiesFinished",
+      "commandName": "update:activities:finished",
+      "description": "This command update activities to finished",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "update:activity:direct:achievement": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Activities/UpdateActivityDirectAchievement",
+      "commandName": "update:activity:direct:achievement",
+      "description": "This command is used for update activities replacing surfacePlaning with surfaceRealized",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "update:brandAndUnitTypeSupplies": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Activities/UpdateBrandAndUnitTypeSupplies",
+      "commandName": "update:brandAndUnitTypeSupplies",
+      "description": "This command update activity unit type supply",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "update:surface:activities": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Activities/UpdateSurfaceActivities",
+      "commandName": "update:surface:activities",
+      "description": "This command update surface in activities",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "delete:duplicate:signers:activities:achievements": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/ActivitiesAndAchievements/DeleteDuplicateSignersActivitiesAchievements",
+      "commandName": "delete:duplicate:signers:activities:achievements",
+      "description": "This command delete duplicate signers in activities and achievements",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "update:roltype:activities:achievements": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/ActivitiesAndAchievements/UpdateRolTypeActivitiesAchievements",
+      "commandName": "update:roltype:activities:achievements",
+      "description": "This command update roltype in activities and achievements",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "update:signer:name:empty": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/ActivitiesAndAchievements/UpdateSignerNameEmpty",
+      "commandName": "update:signer:name:empty",
+      "description": "update signer name empty",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "update:supply:activity:achievement": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/ActivitiesAndAchievements/UpdateSupplyActivityAchievement",
+      "commandName": "update:supply:activity:achievement",
+      "description": "This command update supply in activities and achievements",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "update:supply:legacy:activity:achievement": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/ActivitiesAndAchievements/UpdateSupplyLegacyActivityAchievement",
+      "commandName": "update:supply:legacy:activity:achievement",
+      "description": "add brand in supply seed",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "activityType:update:addField": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/ActivityTypes/ActivityTypeUdateAddField",
+      "commandName": "activityType:update:addField",
+      "description": "add field canPlanning in Activity Type",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "seed:activityTypes": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/ActivityTypes/SeedActivityTypes",
+      "commandName": "seed:activityTypes",
+      "description": "add seed for Activity Type",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "collections:update:date": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Collections/CollectionsUpdate",
+      "commandName": "collections:update:date",
+      "description": "This commands use for add createdAt and updatedAt",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        },
+        {
+          "name": "collections-update-names",
+          "propertyName": "collectionsUpdateNames",
+          "type": "boolean",
+          "alias": "l",
+          "description": "List Collection to Update"
+        }
+      ]
+    },
+    "eiq:calculator": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Commos/EiqCalculator",
+      "commandName": "eiq:calculator",
+      "description": "",
+      "args": [],
+      "aliases": [],
+      "flags": []
+    },
+    "unit:system_converter": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Commos/UnitSystemConverter",
+      "commandName": "unit:system_converter",
+      "description": "",
+      "args": [],
+      "aliases": [],
+      "flags": []
+    },
+    "add:users:collaborators:in:companies": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Companies/AddUsersAndCollaborators",
+      "commandName": "add:users:collaborators:in:companies",
+      "description": "Command to add users and collaborators to company by role",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "companies:add:users": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Companies/CompaniesAddUsers",
+      "commandName": "companies:add:users",
+      "description": "",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "companies:fix:ucropit:users:without:roles": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Companies/CompaniesFixUcropitUsersWithoutRoles",
+      "commandName": "companies:fix:ucropit:users:without:roles",
+      "description": "Correcting user KAM ucropit companies with company cazenave",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "company:create": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Companies/CompanyCreate",
+      "commandName": "company:create",
+      "description": "This command allows you to create a company with your administrator user",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "company:set_unit_measure_system": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Companies/CompanySetUnitMeasureSystem",
+      "commandName": "company:set_unit_measure_system",
+      "description": "",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "update:company:types:by:given:data": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Companies/UpdateCompanyTypesByGivenData",
+      "commandName": "update:company:types:by:given:data",
+      "description": "use this command to update company types by given data in json file",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "add:company:type": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/CompanyTypes/AddCompanyType",
+      "commandName": "add:company:type",
+      "description": "This command add Company type in Company",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "update:type:company": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/CompanyTypes/UpdateTypeCompany",
+      "commandName": "update:type:company",
+      "description": "This command updated to type of companies according to file",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "country:unit:command": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Countries/CountryUnitCommand",
+      "commandName": "country:unit:command",
+      "description": "This command adds the UnitMeasureSystem property to the countries",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "add:member:crop": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Crops/AddMemberCrop",
+      "commandName": "add:member:crop",
+      "description": "This command add members to all crops",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "add:member:crop:soy:signed": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Crops/AddMemberCropSoySigned",
+      "commandName": "add:member:crop:soy:signed",
+      "description": "This command add member in crop soy signed",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "add:producer:admin:in:crops": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Crops/AddProducerAdminInCrops",
+      "commandName": "add:producer:admin:in:crops",
+      "description": "Command to add users producers admins in crops",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "crop:add:timestamp": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Crops/CropAddTimestamp",
+      "commandName": "crop:add:timestamp",
+      "description": "This command add timestamps in crops",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "crops:add:user:kam:of:list:data:set": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Crops/CropAddUserKAMOfListDataSet",
+      "commandName": "crops:add:user:kam:of:list:data:set",
+      "description": "Adds the KAM to all the crops of a producing company, if it does not exist in members.",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "delete:member:crop": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Crops/DeleteMemberCrop",
+      "commandName": "delete:member:crop",
+      "description": "This command delete member in crop",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "fix:company:user:in:crops": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Crops/FixCompanyUserInCrops",
+      "commandName": "fix:company:user:in:crops",
+      "description": "Updating relationship between user and companies with their crops",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "member:update": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Crops/MemberUpdate",
+      "commandName": "member:update",
+      "description": "This command use to update value data of member into array or list in crops change",
+      "args": [
+        {
+          "type": "string",
+          "propertyName": "attribute",
+          "name": "attribute",
+          "required": true,
+          "description": "Attribute Member will be updated"
+        },
+        {
+          "type": "string",
+          "propertyName": "search",
+          "name": "search",
+          "required": true,
+          "description": "Attribute Member search update"
+        },
+        {
+          "type": "string",
+          "propertyName": "value",
+          "name": "value",
+          "required": true,
+          "description": "New value"
+        }
+      ],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "member:update:cam:kam:all:crops": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Crops/MemberUpdateCamKamAllCrops",
+      "commandName": "member:update:cam:kam:all:crops",
+      "description": "Use this command to find all crops with CAM type collaborators and replace it with KAM",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "crop:removeMembersDuplicated": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Crops/RemoveCropMembersDuplicated",
+      "commandName": "crop:removeMembersDuplicated",
+      "description": "This command use to remove duplicated members of crop",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "update:crop:member:responsible": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Crops/UpdateCropMemberResponsible",
+      "commandName": "update:crop:member:responsible",
+      "description": "This command update crop member to responsible",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "update:member:crop": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Crops/UpdateMemberCrop",
+      "commandName": "update:member:crop",
+      "description": "This command update member in crop",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "verify:protected:areas": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Crops/VerifyProtectedAreas",
+      "commandName": "verify:protected:areas",
+      "description": "verify protected area",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "verify:protected:areas:by:id:crop": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Crops/VerifyProtectedAreasByIdCrop",
+      "commandName": "verify:protected:areas:by:id:crop",
+      "description": "verify protected area by id crop",
+      "args": [
+        {
+          "type": "string",
+          "propertyName": "cropId",
+          "name": "cropId",
+          "required": true,
+          "description": "Attribute crop Id to send"
+        }
+      ],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "add:cropType": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/CropTypes/AddCropType",
+      "commandName": "add:cropType",
+      "description": "This command add crop types",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "update:equivalence:in:cropType": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/CropTypes/UpdateEquivalenceInCropType",
+      "commandName": "update:equivalence:in:cropType",
+      "description": "update equivalences in cropType",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "add:evidence:concept": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/EvidenceConcept/AddEvidenceConcept",
+      "commandName": "add:evidence:concept",
+      "description": "This command add evidence concept",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "farm:updateLegacyAllCases": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Farms/UpdateFarmsLegacyAllCases",
+      "commandName": "farm:updateLegacyAllCases",
+      "description": "This command is used for update farms legacies on all cases",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "farm:updateLegacyCase1": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Farms/UpdateFarmsLegacyCase1",
+      "commandName": "farm:updateLegacyCase1",
+      "description": "This command is used for update farms legacies on case 1",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "farm:updateLegacyCase3": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Farms/UpdateFarmsLegacyCase3",
+      "commandName": "farm:updateLegacyCase3",
+      "description": "This command is used for update farms legacies on case 3",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "update:farm:wrong:names": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Farms/UpdateFarmWrongNames",
+      "commandName": "update:farm:wrong:names",
+      "description": "This command update farm in lots with wrong names",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "update:fileDocument:evidenceConcept": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/FileDocument/UpdateFileDocumentEvidenceConcept",
+      "commandName": "update:fileDocument:evidenceConcept",
+      "description": "This command update File Document Evidence Concept",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "upload:local:files:to:s3": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Files/UploadLocalFilesToS3",
+      "commandName": "upload:local:files:to:s3",
+      "description": "This command is to upload to s3 the files saved locally on the production server",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        },
+        {
+          "name": "test-command",
+          "propertyName": "testCommand",
+          "type": "boolean",
+          "alias": "t",
+          "description": "Test flag"
+        }
+      ]
+    },
+    "landscapesustainability:update:flag:notbelongtocrop": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/LandScapeSustainabilities/AddFlagNotBelongToCropSdp",
+      "commandName": "landscapesustainability:update:flag:notbelongtocrop",
+      "description": "This command use to update flag not belong to crop sustainability",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag and assignable"
+        }
+      ]
+    },
+    "landscapesustainability:update:dataset:name": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/LandScapeSustainabilities/UpdateDataSetNameSdp",
+      "commandName": "landscapesustainability:update:dataset:name",
+      "description": "This command use to update dataset's name landscape sustainability",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag and assignable"
+        }
+      ]
+    },
+    "add:licenses": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Licenses/AddLicenses",
+      "commandName": "add:licenses",
+      "description": "This command add licenses",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "update:license:id": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Licenses/UpdateLicenseId",
+      "commandName": "update:license:id",
+      "description": "This command update license id",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "update:licenses": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Licenses/UpdateLicenses",
+      "commandName": "update:licenses",
+      "description": "This command update licenses",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "update:termsCondition:licenses": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Licenses/UpdateTermsConditionLicenses",
+      "commandName": "update:termsCondition:licenses",
+      "description": "This command update termsCondition licences",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "add:images:lots:to:s3": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Lots/AddImagesLotsToS3",
+      "commandName": "add:images:lots:to:s3",
+      "description": "This command is to upload to s3 the lots images saved locally",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        },
+        {
+          "name": "test-command",
+          "propertyName": "testCommand",
+          "type": "boolean",
+          "alias": "t",
+          "description": "Test flag"
+        }
+      ]
+    },
+    "lot:update:geometry:data": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Lots/LotUpdateGeometryData",
+      "commandName": "lot:update:geometry:data",
+      "description": "Command to add the geometry Data to the lot by means of its area, for those batches that do not have this field.",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "update:lots:centroid:legacies": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Lots/UpdateCentroidLegacies",
+      "commandName": "update:lots:centroid:legacies",
+      "description": "This command is used for update farms legacies on all cases",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "update:coordinates:lots": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Lots/UpdateCoordinatesLots",
+      "commandName": "update:coordinates:lots",
+      "description": "This command update coordinates lots",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "update:status:lot": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Lots/UpdateStatusLot",
+      "commandName": "update:status:lot",
+      "description": "This command add timestamps in crops",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        },
+        {
+          "name": "show-progress",
+          "propertyName": "showProgress",
+          "type": "boolean",
+          "alias": "s",
+          "description": "Show loading bar processing"
+        }
+      ]
+    },
+    "update:surface:lots": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Lots/UpdateSurfaceLots",
+      "commandName": "update:surface:lots",
+      "description": "This command update surface lots",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "normative:config:create": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/NormativeConfigs/NormativeConfig",
+      "commandName": "normative:config:create",
+      "description": "Create new normative config",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        },
+        {
+          "name": "normatives",
+          "propertyName": "normatives",
+          "type": "boolean",
+          "alias": "n",
+          "description": "List Normatives list"
+        },
+        {
+          "name": "alphacodes",
+          "propertyName": "alphacodes",
+          "type": "boolean",
+          "alias": "a",
+          "description": "List Alphacodes list"
+        }
+      ]
+    },
+    "create:directAchievementPendingTasksLegacies": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/PendingTasks/CreateDirectAchievementPendingTasksLegacies",
+      "commandName": "create:directAchievementPendingTasksLegacies",
+      "description": "This command is used for create all pending tasks for direct achievements legacies",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "roles:assignable:canMarkFlags:update": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Roles/RolesAssignableUpdate",
+      "commandName": "roles:assignable:canMarkFlags:update",
+      "description": "Use command to update value in array assignable in Roles",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "roles:can:mark:flag:update": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Roles/RolesCanMarkFlagUpdate",
+      "commandName": "roles:can:mark:flag:update",
+      "description": "Use command to update canMarkFlag and assignable values in roles for verifier",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag and assignable"
+        }
+      ]
+    },
+    "roles:update": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Roles/RolesUpdate",
+      "commandName": "roles:update",
+      "description": "This command use to update value data of roles",
+      "args": [
+        {
+          "type": "string",
+          "propertyName": "rol",
+          "name": "rol",
+          "required": true,
+          "description": "Identifier for search Rol will be updated"
+        },
+        {
+          "type": "string",
+          "propertyName": "attribute",
+          "name": "attribute",
+          "required": true,
+          "description": "Attribute Rols will be updated"
+        },
+        {
+          "type": "string",
+          "propertyName": "value",
+          "name": "value",
+          "required": true,
+          "description": "New value"
+        }
+      ],
+      "aliases": [],
+      "flags": []
+    },
+    "roles:update:assignable": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Roles/RolesUpdateAssignable",
+      "commandName": "roles:update:assignable",
+      "description": "Use command to update value in array assignable in Roles",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "roles:update:assignable:company": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Roles/RolesUpdateAssignableCompany",
+      "commandName": "roles:update:assignable:company",
+      "description": "Use command to update value in array assignableCompany in Roles",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "roles:update:assignable:crop": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Roles/RolesUpdateAssignableCrop",
+      "commandName": "roles:update:assignable:crop",
+      "description": "Use command to update value in array assignableCrop in Roles",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "roles:update:permissions": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Roles/RolesUpdateWithPermissions",
+      "commandName": "roles:update:permissions",
+      "description": "This command use to update value data of roles with permissions",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "script:walter": {
+      "settings": {
+        "loadApp": false,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/ScriptWalter",
+      "commandName": "script:walter",
+      "description": "",
+      "args": [],
+      "aliases": [],
+      "flags": []
+    },
+    "add:subType:activity": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/SubTypeActivities/AddSubTypeActivity",
+      "commandName": "add:subType:activity",
+      "description": "This command add subType activity",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "add:subTypeActivity:in:achievement": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/SubTypeActivities/AddSubTypeActivityInAchievements",
+      "commandName": "add:subTypeActivity:in:achievement",
+      "description": "this command adds the subTypeActivity of an activity in realizations that don't have it",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "add:activeIngredient:supply": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Supplies/AddActiveIngredientSupply",
+      "commandName": "add:activeIngredient:supply",
+      "description": "This command add active ingredient in supply",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "add:name:supplies": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Supplies/AddNameSupplies",
+      "commandName": "add:name:supplies",
+      "description": "add name supplies",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "add:supplies": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Supplies/AddSupplies",
+      "commandName": "add:supplies",
+      "description": "This command adds supplies in Supply collection",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command-seed",
+          "propertyName": "rollbackCommandSeed",
+          "type": "boolean",
+          "alias": "rSeed",
+          "description": "Rollback Seed flag"
+        },
+        {
+          "name": "rollback-command-phytosanitary",
+          "propertyName": "rollbackCommandPhytosanitary",
+          "type": "boolean",
+          "alias": "rPhytosanitary",
+          "description": "Rollback Phytosanitary flag"
+        },
+        {
+          "name": "rollback-command-fertilizer",
+          "propertyName": "rollbackCommandFertilizer",
+          "type": "boolean",
+          "alias": "rFertilizer",
+          "description": "Rollback Fertilizer flag"
+        },
+        {
+          "name": "add-seed",
+          "propertyName": "addSeed",
+          "type": "boolean",
+          "alias": "addSeed",
+          "description": "Add Seed flag"
+        },
+        {
+          "name": "add-phytosanitary",
+          "propertyName": "addPhytosanitary",
+          "type": "boolean",
+          "alias": "addPhytosanitary",
+          "description": "Add Phytosanitary flag"
+        },
+        {
+          "name": "add-fertilizer",
+          "propertyName": "addFertilizer",
+          "type": "boolean",
+          "alias": "addFertilizer",
+          "description": "Add Fertilizer flag"
+        }
+      ]
+    },
+    "add:supply:brand": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Supplies/AddSupplyBrand",
+      "commandName": "add:supply:brand",
+      "description": "add brand in supply seed",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "supply:calculate:eiq": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Supplies/CalculateEiqSupplyWithOutComposition",
+      "commandName": "supply:calculate:eiq",
+      "description": "This command calculate eiq in Supply",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "delete:supply": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Supplies/DeleteSupply",
+      "commandName": "delete:supply",
+      "description": "This command delete supply",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "supply:timestamp:added": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Supplies/GenerateTimestampSupply",
+      "commandName": "supply:timestamp:added",
+      "description": "This command updates the timestamp of the supplies",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "supply:without:name": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Supplies/SupplyWithoutName",
+      "commandName": "supply:without:name",
+      "description": "This command add name to supply without name",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "sync:supplies:usa": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Supplies/SyncSuppliesUsa",
+      "commandName": "sync:supplies:usa",
+      "description": "This command add supplies usa by sync with CDM",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "supply:update:eiq": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Supplies/UpdateEiqSupply",
+      "commandName": "supply:update:eiq",
+      "description": "This command update eiq in Supply",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "update:supply:unittypesupply": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Supplies/UpdateSupplyUnitTypeSupply",
+      "commandName": "update:supply:unittypesupply",
+      "description": "This command update unitTypeSupply in supply",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "supply:update:unitType:supply:soy:cotton:usa": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Supplies/UpdateSupplyUnitTypeSupplySoyCottonUsa",
+      "commandName": "supply:update:unitType:supply:soy:cotton:usa",
+      "description": "This command update unitTypeSupply in supply soy and cotton usa",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "update:supply:usa:unitTypeSupply": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Supplies/UpdateSupplyUsaUnitTypeSupply",
+      "commandName": "update:supply:usa:unitTypeSupply",
+      "description": "This command update unit type supply in supplies usa",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "update:unit:semilla": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Supplies/UpdateUnitSemilla",
+      "commandName": "update:unit:semilla",
+      "description": "update unit semilla",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "add:supply:type": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/SupplyType/AddSupplyType",
+      "commandName": "add:supply:type",
+      "description": "This command add supply types",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "add:type:agreement": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/TypeAgreements/AddTypeAgreement",
+      "commandName": "add:type:agreement",
+      "description": "This command add type agreement",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "update:equivalences:unittypes": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/UnitTypes/UpdateEquivalencesUnitTypes",
+      "commandName": "update:equivalences:unittypes",
+      "description": "This command update the collection unittypes with their equivalences",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "supply:unit:update": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/UnitTypeSupplies/UpdateSupplyUnit",
+      "commandName": "supply:unit:update",
+      "description": "This command update unitTypesSupply in Supply",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "update:unittypesupplies": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/UnitTypeSupplies/UpdateUnitTypeSupplies",
+      "commandName": "update:unittypesupplies",
+      "description": "This command update unit type supplies",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "add:companies:to:dataentries:users": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Users/AddCompaniesToDataEntryUsers",
+      "commandName": "add:companies:to:dataentries:users",
+      "description": "Use this command to add companies to advise on dataentry users",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "users:update:company:with:rol": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Users/AddCompanyRolCropMembershioOnyKAM",
+      "commandName": "users:update:company:with:rol",
+      "description": "Add roles by company depending on the role in the crop.",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "users:add:companyRoles": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Users/AddCompanyRoleByCropMembership",
+      "commandName": "users:add:companyRoles",
+      "description": "Add roles by company depending on the role in the crop.",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "add:data:entry": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Users/AddDataEntry",
+      "commandName": "add:data:entry",
+      "description": "This command add data entry",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "create:user:support": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Users/CreateUserSupport",
+      "commandName": "create:user:support",
+      "description": "",
+      "args": [],
+      "aliases": [],
+      "flags": []
+    },
+    "remove:collaboratorRequest:for:admins": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Users/RemoveCollaboratorRequestForAdmins",
+      "commandName": "remove:collaboratorRequest:for:admins",
+      "description": "This command will remove collaborator request if the user is a company Admin",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "update:user:admin": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Users/UpdateUserAdmin",
+      "commandName": "update:user:admin",
+      "description": "This command update user admin",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "user:update:relationships:with:companies:from:crops": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/Users/UserUpdateRelationshipsWithCompaniesFromCrops",
+      "commandName": "user:update:relationships:with:companies:from:crops",
+      "description": "This command update user with companies of crops",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "add:verificationTypes": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/VerificationTypes/AddVerificationType",
+      "commandName": "add:verificationTypes",
+      "description": "This command add verification type",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "verificationType:create": {
+      "settings": {
+        "loadApp": true,
+        "stayAlive": false
+      },
+      "commandPath": "./commands/VerificationTypes/VerificationTypeCreate",
+      "commandName": "verificationType:create",
+      "description": "",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "rollback-command",
+          "propertyName": "rollbackCommand",
+          "type": "boolean",
+          "alias": "r",
+          "description": "Rollback flag"
+        }
+      ]
+    },
+    "dump:rcfile": {
+      "settings": {},
+      "commandPath": "@adonisjs/core/build/commands/DumpRc",
+      "commandName": "dump:rcfile",
+      "description": "Dump contents of .adonisrc.json file along with defaults",
+      "args": [],
+      "aliases": [],
+      "flags": []
+    },
+    "list:routes": {
+      "settings": {
+        "loadApp": true
+      },
+      "commandPath": "@adonisjs/core/build/commands/ListRoutes",
+      "commandName": "list:routes",
+      "description": "List application routes",
+      "args": [],
+      "aliases": [],
+      "flags": [
+        {
+          "name": "json",
+          "propertyName": "json",
+          "type": "boolean",
+          "description": "Output as JSON"
+        }
+      ]
+    },
+    "generate:key": {
+      "settings": {},
+      "commandPath": "@adonisjs/core/build/commands/GenerateKey",
+      "commandName": "generate:key",
+      "description": "Generate a new APP_KEY secret",
+      "args": [],
+      "aliases": [],
+      "flags": []
+    }
+  },
+  "aliases": {}
+}

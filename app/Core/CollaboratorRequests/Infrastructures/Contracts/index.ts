@@ -1,0 +1,2 @@
+import CollaboratorRequestRepositoryContract from './CollaboratorRequestRepositoryContract'
+export { CollaboratorRequestRepositoryContract }

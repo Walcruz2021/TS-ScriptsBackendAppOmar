@@ -1,0 +1,132 @@
+LICENSE AGREEMENT FOR ACCESS AND USE OF APPLICATION N° ‘@nro_lic’
+
+This License Agreement for Access and Use of Application N° ‘@nro_lic’ (the "Agreement") is entered into by and between UCROPIT LLC., Tax ID N° 38-4161224, a Delaware limited liability company with its principal office located at 16192, Coastal Highway, Lewes, Delaware 19958, United States of America; and (the "Licensor"), and ‘@razonSocialProductor’, taxpayer ID: ‘@cuitProductor’ (the "Licensee", and jointly with the Licensor, the "Parties"), and shall be governed by the following terms and conditions:
+
+Clause One: Purpose.
+
+The Licensor grants the Licensee, and the latter accepts accordingly, a non-exclusive, free and non-transferable personal license, limited to the territory of the Licensee's country of residence, of access to and use of, the technological application called "ucrop.it", developed and owned by, or licensed to, the Licensor (the "Application"), so that the Licensee is able to: (i) register as a user in the Application; (ii) upload to the Application, or provide for upload to the Application, information related to geo-referenced fields with evidence and/or support proving ownership or interest of the Licensee over said fields -for example, including but not limited to capacity of lessee thereof-, digital maps/polygons of the fields in question, crops to be developed, number of acres of the fields, planting plan, evidence record and information regarding the succession of activities carried out in the field during the crop production cycle; (iii) validate with the reviewers designated by the Licensor the data uploaded or provided to be uploaded, to the Application, through the signature processes and agreements registered in the blockchain; (iv) (a) grant to the Licensor - and its shareholders, directors, managers, employees and collaborators - during the entire time during which the Licensee is the holder of a user account in the Application and until sixty (60) days as from the date on which said account is terminated by either Party due to any of the causes provided for herein, visibility of, access to and possibility of reproduction, download and generation of copies, of all the information uploaded to the Application and provided to be loaded to the Application including, but not limited to, related to the evolution of the crop cycle(s), through the resulting digital information, through dashboards and/or progress reports on crops and/or registration evidence of the value proposition and sustainability impact of the Company’s See and Spray technology, among other data uploaded to the Application or provided to be uploaded to the Application, by the Licensee and its collaborators and employees in relation to the above, with Licensee and with Deere & Company, Tax ID N° 36-2382580 (the "Company"), and (b) grant to the Company -and to the shareholders/quota-holders, directors/managers, employees, advisers, consultants and collaborators of the Company- while these terms are in force and during later extensions, if any, as provided in Clause Three, visibility of, access to and possibility of reproduction, download and generation of copies, which may be used by the Company even once the aforementioned term or the aforementioned extensions have expired, of the information loaded to the Application and provided to be loaded to the Application, relative to the data about the crops, exclusively with respect to those related to the fields selected by the Licensee as stated in Clause 5.1.d.1), in turn allowing the Licensee to be contacted by the Licensor and by the Company, jointly or separately; and (v) access certain commercial benefits proposed by the Licensor, as long as the Licensee complies with all the steps of registration and signing of the information requested in each stage of the crop cultivation cycle, as specified in Clause 5.1.
+
+Clause Two: Licensee’s Obligations.
+
+2.1	The Licensee agrees to utilize the Platform in accordance with the rights conferred in Clause One, undertaking the declaration of the terms specified on this Agreement, for the proof and validity thereof, which declaration shall serve as sufficient affidavit by the Licensee.
+
+2.2	Key principles for sustainability in food and agriculture
+ 
+The Licensee acknowledge and is committed to the five interconnected principles proposed by FAO (“Food and Agricultural Organization”) for the transition toward sustainable food and agriculture, as follows:
+
+Principle 1 - Improving efficiency in the use of resources is crucial to sustainable agriculture.
+
+Principle 2 - Sustainability requires direct action to conserve, protect and enhance natural resources.
+
+Principle 3 - Agriculture that fails to protect and improve rural livelihoods, equity and social well-being is unsustainable.
+
+Principle 4 - Enhanced resilience of people, communities and ecosystems is key to sustainable agriculture.
+
+Principle 5 - Sustainable food and agriculture requires responsible and effective governance mechanisms.
+
+2.3. The Licensee accepts and acknowledges that the Company will be solely responsible for the quality, safety or legality of the goods and/or services that it markets to the Licensee (including but not limited to the See and Spray technology), in accordance with the provisions of Clause 2.1. of the present and/or all those goods and/or services that are the object of eventual agreements to be concluded between the Licensee and the Company or the Licensor and the Company, by virtue of the Services and/or the use of the Application. In this sense, the Licensee understands and accepts that the Application only generates a virtual space so that the producers (including the Licensee) can interact with the Company and generate commercial business. Notwithstanding this, the Company will be solely responsible to the producers (including the Licensee) and third parties for all the obligations that correspond to them for the sale of their goods and/or services (including, without limitation, the quality, quantity, integrity or legitimacy of the goods and/or services, the veracity or accuracy of the advertisements and the ability of the Company to offer such goods and/or services). The Licensor is exempt from all liability, including but not limited to liability for direct, punitive, or indirect damages, in connection with the goods and/or services offered by the Company to the Licensee through the Platform.
+ 
+Clause Three: Term. 
+
+3.1	The term of validity of this Agreement is of February 28, 2023 (the “Term”) and shall commence when the Licensee electronically accepts this Agreement through the Application or by email in case of doing so by said means. The Term shall expire automatically, and by the mere passage of time, without the need for any court or out-of-court notice, all without prejudice to the provisions of items (iv) (a) and (b) of Clause One.
+
+3.2	The Term may be extended by the Parties under the conditions agreed upon from time to time. 
+
+Clause Four
+
+4.1	The Licensee represents that it is in its interest to access potential business benefits at present and/or in the future that at the Licensor’s sole discretion and decision may be available to the Licensee as a user of the Application and carry out the activities detailed in Clause One, including but not limited to:
+
+Monetary and/or in-kind incentives and commercial benefits to reward the registration and uploading of evidence of the activities listed in Clause Five. 
+
+Traceability as a result of the registration of the data regarding the crop cycle detailed herein.
+
+Clause Fifth: Training – Use of the Application.
+
+5.1	The Licensee states that it is in its interest to access training (i) regarding the access to and use of the Application, and agrees to participate in it at its cost and expense as proposed by the Licensor for such purposes, such participation being a required condition to access the benefits set out in Clauses Four and Five, and guarantees its active participation, by itself or by the third parties designated for such purpose, during the crop cycle and the term of duration hereof and its successive extensions, if any; and (ii) with respect to the uploading of information and registration of data, for the following tasks: 
+
+Register an account by entering www.ucrop.it and completing the form "Be part of the change” with the required data and then click on the “Register now” button to finish registration. Then, the Licensee shall be contacted by the Licensor to complete the registration process, access a username, password and farmer and crop profile in the Application.
+
+Submission and/or uploading of the geo-referenced polygons of the field(s) (in formats such as KMZ/KML/SHP or equivalent) and of their crop(s) as detailed herein.
+
+Submission of the W9 form issued by the Internal Revenue Service (IRS) which contains, among other data, the identification of the taxpayer.
+
+Submission and/or uploading of data, evidence and acceptance signature requested by the Licensor during the term hereof and its successive extensions, if any, namely:
+
+d.1)	Electronic acceptance of this Agreement through the Platform and selection of the field(s) and/or field(s) where the Licensee plans to plant or would have planted the soybean and/or cotton seed, and that shall be an integral part hereof.
+
+d.2) 	Submission and/or uploading of the geo-referenced polygons of the field(s) (in formats such as KMZ/KML/SHP or equivalent) and of the crop(s). 
+
+d.3) 	In the planting record, the planting date and area shall be reported; and a geo-located picture of the planted/emerged crop and/or Normalized Difference Vegetation Index (NDVI) image of the established crop and/or a download from the Operations Center shall be attached.
+
+d.4)  The variety/s and planting density must be reported, as well as the expected yield.
+
+d.5)	Electronic signature of what is set out in d.3) and in d.4).
+
+d.6) 	For the application of herbicides, inform the date, product used and rate for all applications.
+
+d.7)	 The product invoice and application invoice (if customs applied) and/or a work order and/or a download from the Operations Center must be attached.
+
+d.8) 	Electronic signature as indicated in d.6) and d.7).
+
+d.9) 	In the “Post application weed control rating” record, provide at 2 weeks after treatment, relevant weed control reports and georeferenced pictures of the field/s showing weed control
+
+d.10)	Electronic signature of what is set out in d.9).
+
+d.11)	In the harvest record, the yield obtained shall be reported and the harvest form and/or supporting documents of the harvested bushels and/or a download from the Operations Center shall be attached.
+
+d.12)	Electronic signature as indicated in d.11).
+
+5.2.	The Licensee agrees that the Licensor may settle monetary commercial benefits to the Licensee against valid, complete and truthful records with electronic signatures of acceptance by the Licensee, in accordance with the provisions set out in Clause 5.1, particularly in Clause 5.1 d) and subsequent ones, in due time and form, and coinciding with the times and locations of the activities reported for the correct traceability of soybean and/or cotton crops. The stages to consider shall be those where the following records are complete and completed and the electronic signatures of acceptance by the Licensee are verified:
+
+Stage 1: 5.1 c),  d.1) and d.2).
+
+Stage 2: d.3), d.4)  and d.5). 
+
+Stage 3: d.6), d.7) and d.8).
+
+Stage 4: d.9) and d.10). 
+
+Stage 5: d.11) and d.12).
+
+
+5.3	It will be an exclusive condition for access and collection of the monetary commercial benefits that the Licensee completes Stages 1 to 5 in a timely manner, in order to receive a total amount of $1.50 (one United States Dollar and fifty cents), taxes included, per acre.
+
+The aforementioned monetary commercial benefit shall be (i) awarded according to the criteria of the Licensor and, if granted, shall be settled when the Licensor so determines it, but always while this Agreement is in force, and (ii) paid in US dollars with the valid, complete and truthful record obligation for each of the aforementioned stages. As the stages and their records are duly completed in compliance with the terms herein, the Licensor shall notify the Licensee and/or the advisor promoting the latter by email, as applicable and in relation to the provisions set out in Clause 5.4, about the statement of commercial benefits' settlement and the date(s) on which the settlement of the commercial benefits shall be effective, for which the Licensee shall issue an invoice and/or payment receipt, as agreed by the Parties from time to time. It is expressly agreed and understood that the award, settlement and payment of the aforementioned commercial benefits by the Licensor is subject to the fulfillment by the Company of the obligations undertaken by it under certain agreements entered into between the Company and the Licensor. Consequently the Licensee expressly and irrevocably waives the right to file claims against the Licensor and its shareholders, directors/managers, employees and collaborators, if the aforementioned commercial benefits were not awarded and settled, or if they were awarded and settled in a way other than that provided for herein, as a direct or indirect consequence of non-compliance by the Company with the obligations undertaken by it with the Licensor by virtue of the aforementioned agreements. 
+
+5.4.	The Licensee shall perform the necessary actions through its user in the Application to link the crop(s) to third party collaborators and thus delegate the functions and activities provided herein, as set forth in Clauses 5.1 and 5.2, as well as for the category of "advisers" and the collection of commercial benefits and incentives provided for in Clause 4.1 a) for the category of "promoter advisers", on the total or a part of the fields mentioned in Clause 5.1 b) and/or selected according to the provisions of Clause 5.1 d.1).  The Licensee assumes full responsibility for the uploaded contents and the acts performed in the Application through any of the user accounts created by said collaborators of the Licensee.
+
+5.5 	 The Licensee agrees that, if required, it shall provide active support to the Licensor, without cost, in promotional activities in which they are asked to comment on their experience through different systems and communication media, such as, and without limitation, radio, graphic, multimedia, social networks, press activities, launches, presentations and meetings.
+
+5.6	In view of the importance of complying with the obligations set forth in Clause Five, and to preserve the integrity of the Licensor, the Licensee accepts, by prior notice, the visit by personnel and/or third parties hired by the Licensor, to the Licensee’s field(s) and/or facility(ies), or locations in which the Licensor has an interest to verify compliance with this Agreement and the other agreements entered into between the Parties, if any. 
+
+5.7.	This Agreement shall be governed and construed under the laws of the State of Delaware, United States of America. For any controversy or conflict, including but not limited to conflicts related to the existence, interpretation, validity, execution, compliance or termination of this Agreement, the Parties submit to the exclusive jurisdiction of the Courts of the State of Delaware, United States of America.
+
+Clause Six: Termination.
+
+6.1	Either of the Parties may rescind this Agreement at any time, without expression of cause and without any obligation of compensation in favor of the other party, by means of written notice of their decision served at least thirty (30) days prior to the date on which termination is to take effect. In this sense, the Licensee accepts that, if this Agreement is terminated without cause, the Company shall have the right to use the data uploaded to the Application in the terms provided for herein, until the term of this Agreement or its successive extensions expires, if any. 
+
+6.2 	Failure to comply with any of the obligations hereunder gives the non-defaulting party the right to terminate this Agreement, with prior notice to the defaulting party so that, within fifteen (15) days from receipt of said notice, the defaulting party may remedy the breach. In the event that the defaulting party fails to remedy the breach within the aforementioned period, this Agreement shall be terminated without the need for any court or out-of-court notice, and the non-defaulting party shall be entitled to claim damages from the defaulting party. In this sense, the Licensee accepts that, if this Agreement is terminated with cause, the Company shall have the right to use the data uploaded to the Application under the terms provided for herein, until the term of this Agreement or its successive extensions, if any, expires. 
+
+6.3	The termination of this Agreement, with or without cause, shall not release the Parties from the obligations which are pending on the termination date.
+
+6.4	The Licensee represents and guarantees to the Licensor that it has the national, provincial and municipal authorizations, permits and registries that are required to carry out the activities of the Licensee, if applicable. The Application and the Services are made available to the Licensee "AS-IS" and without warranty of any kind. Licensee uses that Application at its sole risk and expense.
+
+6.5	The Parties represent that they are completely independent from each other and that they have their own organization and staff, and assume their own risk. Neither party may, under any circumstances, consider itself a partner, associate, employee, agent or representative of the other party nor, therefore, neither party shall represent the other party against third parties.
+
+Clause Seven: Miscellaneous.
+7.1	The Licensee understands and accepts that the Licensor has entered into or may enter into agreements with third parties (including but not limited to the Company) and that it may have assumed obligations thereunder, the fulfillment of which is or may in turn be subject to the Licensee's fulfillment of the obligations assumed hereunder or under other agreements concluded between the Parties. Consequently, the Licensee shall be liable for the damages and losses resulting from the breach of the obligations assumed hereunder. In this sense, the Licensee undertakes to hold harmless and indemnify the Licensor, its shareholders, authorities, employees, collaborators and representatives from any lawsuit or court or out-of-court claims of any nature that the aforementioned third parties may bring, insofar as the breaches of the obligations undertaken to the third parties (including but not limited to the Company) by the Licensor derive, either directly or indirectly, from breaches by the Licensee hereunder or under other agreements that it has entered into or may enter into with the Licensor. 
+
+7.2.	The Licensee may not assign or transfer the rights and obligations provided for herein, without the prior written consent of the Licensor. 
+
+7.3 For smooth communication between the Parties in the ordinary, day-to-day business conducted under this Agreement, the Licensor designates javier.foster@ucrop.it (copying hello@ucrop.it) and the Licensee will use the email informed at the time of registration of the user on the application or another one that has been informed.
+
+7.4 The Parties designate as special addresses those established at the time of registration of the company and users in the application, for which all judicial or extrajudicial notifications made by virtue of this will be valid. All notices beyond ordinary, day-to-day business conducted under this Agreement, including but not limited to communications regarding claims and terminations, will be in writing. 
+
+7.5.	Either of the Parties shall be entitled to change their address, in which case they shall serve written notice to the other party at least 5 (five) calendar days in advance of the date on which such change of address becomes effective.
+
+7.6	In case of contradictions, conflicts or inconsistencies between the provisions of this agreement and the Terms and Conditions of Use of the Application "UCROP.IT", only with respect to said contradictions, conflicts or inconsistencies, the provisions of this agreement shall prevail.
+
+THIS AGREEMENT SHALL BE CONSIDERED IRREVOCABLY AND FULLY ACCEPTED BY THE LICENSEE BY ITS ELECTRONIC ACCEPTANCE THROUGH THE PROVISION OF THE DIGITAL IDENTITY OF THE LICENSEE'S CUIT, PROVIDED BY MEANS OF THE USER ONBOARDING PROCESS IN WWW.UCROP.IT, AND/OR ACCEPTED BY THE LICENSEE THROUGH AN EMAIL UNDER THE TERMS SET FORTH HEREIN.
+
+
+
